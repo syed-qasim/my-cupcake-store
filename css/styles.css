@@ -1,0 +1,18 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  align-items: center;
+}
+
+.Headers {
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+.Non-Headers {
+  font-family:monospace;;
+  font-weight: lighter;
+}
